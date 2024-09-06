@@ -1,0 +1,78 @@
+.li2:hover{
+    transform: scale(1.1);
+    transition: all 0.2s linear;
+    background-color: #20a1dd;
+}
+
+.li3:hover{
+    transform: scale(1.05);
+    transition: all 0.2s linear;
+    color: rgb(212, 212, 212);
+}
+
+.li4:hover{
+    transform: scale(1.05);
+    transition: all 0.2s linear;
+    color: rgb(212, 212, 212);
+}
+
+.li5:hover{
+    transform: scale(1.05);
+    transition: all 0.2s linear;
+    color: rgb(212, 212, 212);
+}
+
+.btnsearch:hover{
+    transform: scale(1.05);
+    transition: all 0.2s linear;
+    background-color: #20a1dd;
+}
+
+.circle:hover{
+    transform: scale(1.1);
+    transition: all 0.2s linear;
+    background-color: #20a1dd;
+}
+
+.divop:hover{
+    transform: scale(1.1);
+    transition: all 0.2s linear;
+    color: rgb(212, 212, 212);
+}
+
+.shop:hover{
+    transform: scale(1.1);
+    transition: all 0.2s linear;
+    background-color: #20a1dd;
+}
+
+.cat:hover{
+    transform: scale(1.1);
+    transition: all 0.2s linear;
+    background-color: #20a1dd;
+}
+
+.preorder:hover{
+    transform: scale(1.03);
+    transition: all 0.2s linear;
+}
+
+.sub:hover{
+    transform: scale(1.1);
+    transition: all 0.2s linear;
+}
+
+.quad:hover{
+    transform: scale(1.02);
+    transition: all 0.2s linear;
+}
+
+.quad1:hover{
+    transform: scale(1.02);
+    transition: all 0.2s linear;
+}
+
+.img1:hover{
+    transform: scale(0.61);
+    transition: all 0.2s linear;
+}
